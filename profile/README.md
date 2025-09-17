@@ -2,13 +2,11 @@
 
 <p align="center">
   <img src="https://example.com/ableword-header.jpg" alt="AbleWord Logo"/>
-
-" alt="AbleWord Logo"/>
 </p>
 
 <p align="center">
-  <a href="https://ableword.github.io/.github/">
-    <img src="[https://img.shields.io/badge/⬇️_Get_AbleWord-blue?style=for-the-badge&logo=github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqSWndrTbPqOTBnMjUwEvklbv0Sbr6tuglg&s)" alt="Download AbleWord"/>
+  <a href="https://github.com/ableword/ableword/releases">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqSWndrTbPqOTBnMjUwEvklbv0Sbr6tuglg&s" alt="Download AbleWord"/>
   </a>
 </p>
 
@@ -28,7 +26,7 @@ With AbleWord, users can enjoy:
 The software is compatible with Windows 10 and Windows 11 and serves as an excellent alternative to Microsoft Word for users who need reliable document editing without the high cost. Its intuitive interface and powerful features make it suitable for students, professionals, and home users alike.
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqSWndrTbPqOTBnMjUwEvklbv0Sbr6tuglg&s" alt="AbleWord Screenshot"/>
+  <img src="https://www.lifewire.com/thmb/Erpr4nRXtsZLeuSp-y2QpXL-FyY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ableword-ed1df12100db4643bacf30edec787904.png" alt="AbleWord Screenshot"/>
 </p>
 
 ---
