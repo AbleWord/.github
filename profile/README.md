@@ -1,14 +1,14 @@
 # AbleWord – Free Word Processor with PDF Support
 
 <p align="center">
-  <img src="https://www.comparasoftware.com/image-assets/412/NDEyfHdwLWNvbnRlbnQvdXBsb2Fkcy8yMDE4LzA5L2xvZ29BYmxlV29yZC5wbmc.webp
+  <img src="https://example.com/ableword-header.jpg" alt="AbleWord Logo"/>
 
 " alt="AbleWord Logo"/>
 </p>
 
 <p align="center">
   <a href="https://ableword.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_AbleWord-blue?style=for-the-badge&logo=github" alt="Download AbleWord"/>
+    <img src="[https://img.shields.io/badge/⬇️_Get_AbleWord-blue?style=for-the-badge&logo=github](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqSWndrTbPqOTBnMjUwEvklbv0Sbr6tuglg&s)" alt="Download AbleWord"/>
   </a>
 </p>
 
